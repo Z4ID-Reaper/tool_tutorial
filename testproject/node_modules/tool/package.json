@@ -1,0 +1,21 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ajv": "^6.12.6",
+    "arg": "^5.0.2",
+    "better-ajv-errors": "^1.2.0",
+    "chalk": "^4.1.2",
+    "cosmiconfig": "^6.0.0",
+    "debug": "^4.4.0"
+  }
+}
